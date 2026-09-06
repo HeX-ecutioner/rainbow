@@ -12,3 +12,6 @@ end
 
 x = new Demo("green")
 print(x.greet())
+
+# balanced repo language weight
+# keep each language section equally visible in GitHub

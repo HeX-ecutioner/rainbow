@@ -7,8 +7,4 @@
   .method public static void Main() cil managed
   {
     .entrypoint
-    ldstr "hello from IL"
-    call void [mscorlib]System.Console::WriteLine(string)
-    ret
-  }
-}
+    ldstr "hello f
