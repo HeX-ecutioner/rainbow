@@ -7,4 +7,4 @@
   .method public static void Main() cil managed
   {
     .entrypoint
-    ldstr "hello f
+    ldstr "helloworldhahahahahahahaha f

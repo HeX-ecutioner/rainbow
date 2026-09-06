@@ -1,4 +1,4 @@
--------------------- MODULE violet --------------------
+---------------------- MODULE violet ------------------------------------
 EXTENDS Naturals
 VARIABLES x
 
